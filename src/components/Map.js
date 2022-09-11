@@ -20,7 +20,7 @@ const MapStyles = styled.div`
     background: #858c8a;
     width: 100%;
     max-width: 300px;
-    border-radius: 22px;
+    border-radius: 12px;
   }
   .map__card__heading {
     font-size: 3rem;
